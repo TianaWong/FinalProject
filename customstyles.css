@@ -1,0 +1,49 @@
+
+body{
+	padding: 0px 50px 0px 50px;
+}
+
+
+h1{
+	color: purple;
+}
+
+h3{
+	color: orange;
+	padding-left: 50px;
+}
+
+h4{
+	color: purple;
+	padding-left: 50px;
+}
+
+form{
+	padding:15px 250px 15px 150px;
+}
+
+p{
+	padding: 0px 75px 0px 50px;
+}
+
+img{
+	border-radius: 50%;
+	width:145px;
+	height: 100px;
+	padding: 3px 3px 25px 3px;
+	float: left;
+}
+
+.circle{
+	border-radius: 50%;
+	width:200px;
+	height:200px;
+	line-height: 100px;
+	background: purple;
+	text-align: center;
+	float: right;
+	color: white;
+	font-size: 30px;
+	padding-top: 50px;
+}
+
